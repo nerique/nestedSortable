@@ -22,7 +22,7 @@
 			doNotClear: false,
 			listType: 'ol',
 			maxLevels: 0,
-			protectRoot: false,
+			protectRoots: false,
 			rootID: null,
 			rtl: false,
 			isAllowed: function(item, parent) { return true; }
